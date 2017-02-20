@@ -10,11 +10,11 @@
 
 @import Foundation;
 
-@interface ___FILEBASENAME___Request : NSObject
-@end
+@class ___FILEBASENAME___ViewController;
 
-@interface ___FILEBASENAME___Response : NSObject
-@end
+@interface ___FILEBASENAME___Configurator : NSObject
 
-@interface ___FILEBASENAME___ViewModel : NSObject
++ (instancetype)sharedInstance;
+- (void)configureViewController:(___FILEBASENAME___ViewController *)viewController;
+
 @end

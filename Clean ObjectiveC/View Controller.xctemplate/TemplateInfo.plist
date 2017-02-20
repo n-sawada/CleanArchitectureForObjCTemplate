@@ -5,7 +5,7 @@
 	<key>DefaultCompletionName</key>
 	<string>MyScene</string>
   <key>Description</key>
-  <string>This generates a new view controller using Uncle Bob's clean architecture. Your view/view controller logic goes here.</string>
+  <string>This generates a new view controller using Uncle Bob's clean architecture base on http://clean-swift.com. Your view/view controller logic goes here.</string>
   <key>Kind</key>
   <string>Xcode.IDEKit.TextSubstitutionFileTemplateKind</string>
   <key>Options</key>
@@ -62,7 +62,7 @@
 			<key>Required</key>
 			<string>YES</string>
 			<key>Type</key>
-			<string>class</string>
+			<string>popup</string>
 			<key>Values</key>
 			<array>
 				<string>UIViewController</string>
@@ -78,6 +78,6 @@
 	<key>SortOrder</key>
 	<string>8</string>
   <key>Summary</key>
-  <string>This generates a new view controller using Uncle Bob's clean architecture. Your view/view controller logic goes here.</string>
+  <string>This generates a new view controller using Uncle Bob's clean architecture base on http://clean-swift.com. Your view/view controller logic goes here.</string>
 </dict>
 </plist>

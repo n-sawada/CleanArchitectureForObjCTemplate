@@ -10,11 +10,8 @@
 
 @import Foundation;
 
-@interface ___FILEBASENAME___Request : NSObject
-@end
+@interface ___FILEBASENAME___Worker : NSObject
 
-@interface ___FILEBASENAME___Response : NSObject
-@end
+- (void)doSomeWork;
 
-@interface ___FILEBASENAME___ViewModel : NSObject
 @end

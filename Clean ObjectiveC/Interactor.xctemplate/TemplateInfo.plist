@@ -5,7 +5,8 @@
 	<key>DefaultCompletionName</key>
 	<string>MyScene</string>
   <key>Description</key>
-  <string>This generates a new interactor using Uncle Bob's clean architecture. Your business logic goes here.</string>
+  <string>This generates a new interactor using Uncle Bob's clean architecture base on http://clean-swift.com. Your business logic goes here.</string>
+
   <key>Kind</key>
   <string>Xcode.IDEKit.TextSubstitutionFileTemplateKind</string>
   <key>Options</key>
@@ -54,6 +55,6 @@
 	<key>SortOrder</key>
 	<string>7</string>
   <key>Summary</key>
-  <string>This generates a new interactor using Uncle Bob's clean architecture. Your business logic goes here.</string>
+  <string>This generates a new interactor using Uncle Bob's clean architecture base on http://clean-swift.com. Your business logic goes here.</string>
 </dict>
 </plist>

@@ -17,7 +17,7 @@
 
 @end
 
-@implementation ___FILEBASENAME___ViewController
+@implementation ___FILEBASENAME___TableViewController
 
 + (instancetype)selfViewController {
     return [[self class] selfViewControllerWithStoryboardName:@"Sample"];
